@@ -1,7 +1,4 @@
-````markdown
-# 🎁 QBOX Mystery Box System
-
-An immersive, two-part Mystery Box system for QBOX/QBCore & ESX servers — allowing players to open boxes from their inventory or discover lootable props in the game world. Includes full reward config, cooldown logic, Discord logging, and Ox/QB Inventory support.
+# 🎁 Advanced Mystery Boxes
 
 ---
 
